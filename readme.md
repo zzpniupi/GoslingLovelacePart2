@@ -1,1 +1,1 @@
-![GIF](display/gif02.gif)
+![GIF](display/gif04.gif)
